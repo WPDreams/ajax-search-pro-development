@@ -14,9 +14,15 @@ If an issue is considered, then it is assigned a branch so you can track the com
 
 Please note that this is **not a place to get supported**. If you need help or have an issue please contact us [via support](https://wp-dreams.com/open-support-ticket-step-1/).
 
+## Beta testing
+If you want to contribute more, you can [apply for beta testing](https://beta.ajaxsearchpro.com/development-roadmap-beta-testing/).
+
+Beta testers are given access to the ajax search pro release beta repository, where they can download and test the latest stable build before release.
+
 ## Useful links
 - [Website](https://ajaxsearchpro.com/) and [Contact](https://ajaxsearchpro.com/contact/) form
 - Ajax Search Pro [Documentation](https://documentation.ajaxsearchpro.com/)
 - Ajax Search Pro [Knowledge Base](https://knowledgebase.ajaxsearchpro.com/) (coding and such)
 - [Support](https://wp-dreams.com/open-support-ticket-step-1/)
 - [Slack channel](https://join.slack.com/t/ernestmarcinko/shared_invite/zt-24i3vq4zm-5foeqK_sa4Jik1xReJmxJA)
+- [Apply for Beta Testing](https://beta.ajaxsearchpro.com/development-roadmap-beta-testing/)
