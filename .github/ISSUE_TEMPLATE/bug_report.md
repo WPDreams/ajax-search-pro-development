@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
@@ -22,6 +22,11 @@ A clear and concise description of what you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
+
+**Environment checklist**
+- [ ] This bug happens with only Ajax Search Pro plugin active
+- [ ] This bug happens with a default WordPress theme active
+- [ ] I can reproduce this bug consistently
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
